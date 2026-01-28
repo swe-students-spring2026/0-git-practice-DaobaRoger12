@@ -10,3 +10,6 @@ The article discusses a testing approach called “expect tests,” which turns 
 
 What I find most interesting is how tooling design directly affects developer behavior. By making tests easier and more pleasant to write, expect tests encourage more thorough testing and better documentation of program behavior. This article changed the way I think about testing: not just as a correctness check, but as a powerful tool for understanding and designing software systems.
 
+## Comment
+
+I really like how you highlighted the connection between tooling design and developer behavior—that's such an important point that often gets overlooked. The idea that making something pleasant actually changes how thoroughly we do it applies beyond just testing too. I'm curious: have you tried using expect tests in your own projects? I wonder if there are any downsides to this approach, like maybe becoming too reliant on auto-generated outputs without critically examining them first? 
