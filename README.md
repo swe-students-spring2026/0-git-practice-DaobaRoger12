@@ -1,4 +1,4 @@
-[What if writing tests was a joyful experience?](https://blog.janestreet.com/what-if-writing-tests-was-a-joyful-experience/)
+[What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
 
 The article discusses a testing approach called “expect tests,” which turns test writing into a more exploratory and interactive process. Instead of manually guessing expected outputs, developers allow the program to generate outputs and then “accept” them as expectations.
 
